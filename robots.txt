@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://permitandgo.github.io/permitandgo/sitemap.xml
